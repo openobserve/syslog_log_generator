@@ -1,0 +1,4 @@
+sample log 1
+sample log 2
+All good
+My server
