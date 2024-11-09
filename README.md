@@ -13,11 +13,11 @@ A synthetic syslog log generator that can be used for sending test data to OpenO
 Start a terminal and run the following command
 
 ```shell
-python syslog_gen.py --host <OpenObserve host> --port 5514 --file sample_logs.txt --count 100000
+python syslog_gen.py --host <OpenObserve host> --port 5514 --file sample_logs.txt --count 1000
 ```
 
 e.g.
 
 ```shell
-python syslog_gen.py --host 127.0.0.1 --port 5514 --file sample_logs.txt --count 100000
+python syslog_gen.py --host 127.0.0.1 --port 5514 --file sample_logs.txt --count 1000
 ```
